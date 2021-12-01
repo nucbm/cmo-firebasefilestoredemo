@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "617404718091",
+    "project_number": "...",
     "project_id": "filestoragedemo-2fa4a",
     "storage_bucket": "filestoragedemo-2fa4a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:617404718091:android:20e469f0e034fcb5bc3b0e",
+        "mobilesdk_app_id": "....",
         "android_client_info": {
           "package_name": "cc.cunbm.android.fbdemo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "617404718091-7lacs69av0c0sckl5ia6521n5jqq0j9i.apps.googleusercontent.com",
+          "client_id": "...",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCprLI_f33I6keKWhmxQQmgoaZm4X9XyGQ"
+          "current_key": "..."
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "617404718091-7lacs69av0c0sckl5ia6521n5jqq0j9i.apps.googleusercontent.com",
+              "client_id": ".....",
               "client_type": 3
             }
           ]
